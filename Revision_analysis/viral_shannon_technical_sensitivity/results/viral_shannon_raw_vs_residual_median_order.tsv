@@ -1,0 +1,7 @@
+Continent	raw_Shannon_median	residual_Shannon_median	raw_rank_descending	residual_rank_descending
+Africa	4.40615	0.228225558229018	5	2
+Asia	5.6611	0.0879645698952158	1	4
+Europe	5.44332	0.316247761607376	2	1
+North_America	4.96692	-0.28177541781571	4	5
+Oceania	5.13853	0.185841477433579	3	3
+South_America	3.46192	-0.369411578666543	6	6

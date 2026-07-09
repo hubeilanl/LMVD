@@ -1,0 +1,235 @@
+comparison_level	dataset	scope	feature	top10_threshold_ARG_annotations	denominator_MAG_count	MAG_count	annotation_count	annotation_percent	unique_ARG_name_count	multidrug_ARG_annotation_count	multidrug_ARG_percent_within_feature
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	multidrug	NA	1590	1319	21411	53.1527729506976	101	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	fluoroquinolone antibiotic	NA	1590	1036	3866	9.5973387617298	20	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	peptide antibiotic	NA	1590	1002	3537	8.78059679261209	16	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	nucleoside antibiotic	NA	1590	916	2454	6.09205104016682	4	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	aminocoumarin antibiotic	NA	1590	803	1830	4.54297204706817	3	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	aminoglycoside antibiotic	NA	1590	954	1698	4.21528226006653	42	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	phosphonic acid antibiotic	NA	1590	950	1601	3.97447991658805	14	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	beta-lactam	NA	1590	985	1211	3.0063055459014	97	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	tetracycline antibiotic	NA	1590	654	1197	2.97155056849213	23	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	nitroimidazole antibiotic	NA	1590	885	885	2.1970110719428	2	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	elfamycin antibiotic	NA	1590	227	231	0.573457127252867	1	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	sulfonamide antibiotic	NA	1590	108	110	0.273074822501365	3	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	phenicol antibiotic	NA	1590	80	96	0.238319845092101	17	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	diaminopyrimidine antibiotic	NA	1590	65	69	0.171292388659947	12	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	MLS	NA	1590	52	66	0.163844893500819	25	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	bicyclomycin antibiotic	NA	1590	7	7	0.0173774887046323	1	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	glycopeptide antibiotic	NA	1590	1	7	0.0173774887046323	7	NA	NA
+ARG_type	Pseudomonadota AR-MAG	all_AR_MAGs	nitrofuran antibiotic	NA	1590	6	6	0.0148949903182563	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	multidrug	NA	3521	3426	81187	48.320418050447	120	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	peptide antibiotic	NA	3521	3173	13982	8.32172743396541	28	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	fluoroquinolone antibiotic	NA	3521	3229	13094	7.79321263197991	32	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	aminoglycoside antibiotic	NA	3521	3384	12706	7.56228499327453	58	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	aminocoumarin antibiotic	NA	3521	3123	8602	5.11968955707127	3	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	tetracycline antibiotic	NA	3521	2905	7878	4.68878334464165	18	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	nucleoside antibiotic	NA	3521	2456	7139	4.24894951731362	4	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	phosphonic acid antibiotic	NA	3521	3169	6221	3.70257948553131	17	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	beta-lactam	NA	3521	2856	5133	3.05502981823376	161	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	nitroimidazole antibiotic	NA	3521	3152	3154	1.87717982597103	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	sulfonamide antibiotic	NA	3521	1774	2527	1.50400552321775	4	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	elfamycin antibiotic	NA	3521	1010	1607	0.956445142782321	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	phenicol antibiotic	NA	3521	1170	1562	0.92966229808711	20	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	MLS	NA	3521	837	1550	0.922520206168387	22	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	diaminopyrimidine antibiotic	NA	3521	1199	1362	0.81062743277506	20	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	rifamycin antibiotic	NA	3521	154	156	0.0928471949433989	3	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	glycopeptide antibiotic	NA	3521	109	109	0.0648740015950672	2	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	nitrofuran antibiotic	NA	3521	38	38	0.0226166244092895	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	all_isolates	bicyclomycin antibiotic	NA	3521	11	11	0.00654691759216275	1	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	multidrug	48	159	159	4233	52.4405351833499	81	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	fluoroquinolone antibiotic	48	159	153	703	8.70911793855302	8	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	peptide antibiotic	48	159	159	696	8.62239841427156	12	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	nucleoside antibiotic	48	159	153	461	5.71110009910803	4	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	aminocoumarin antibiotic	48	159	153	431	5.3394449950446	3	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	aminoglycoside antibiotic	48	159	159	424	5.25272547076313	19	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	tetracycline antibiotic	48	159	150	322	3.98909811694747	11	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	phosphonic acid antibiotic	48	159	158	293	3.62983151635282	7	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	beta-lactam	48	159	158	221	2.73785926660059	29	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	nitroimidazole antibiotic	48	159	153	153	1.89544103072349	1	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	sulfonamide antibiotic	48	159	36	37	0.458374628344896	3	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	phenicol antibiotic	48	159	22	34	0.421209117938553	9	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	diaminopyrimidine antibiotic	48	159	25	25	0.309712586719524	4	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	elfamycin antibiotic	48	159	18	19	0.235381565906838	1	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	MLS	48	159	7	11	0.136273538156591	7	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	bicyclomycin antibiotic	48	159	6	6	0.0743310208126858	1	NA	NA
+ARG_type	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	nitrofuran antibiotic	48	159	3	3	0.0371655104063429	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	multidrug	64	353	353	10084	41.7401382507554	87	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	aminoglycoside antibiotic	64	353	353	2384	9.86795811084896	37	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	fluoroquinolone antibiotic	64	353	353	1854	7.67415869862163	18	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	peptide antibiotic	64	353	353	1756	7.26851276956828	21	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	tetracycline antibiotic	64	353	352	1441	5.96465085475392	10	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	aminocoumarin antibiotic	64	353	352	1051	4.35034562688853	3	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	nucleoside antibiotic	64	353	349	1039	4.30067469680036	4	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	beta-lactam	64	353	353	945	3.91158574444307	50	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	phosphonic acid antibiotic	64	353	353	806	3.33623080425514	11	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	sulfonamide antibiotic	64	353	349	672	2.78157208493729	4	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	MLS	64	353	252	519	2.14826772631318	16	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	phenicol antibiotic	64	353	307	508	2.10273604039902	11	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	diaminopyrimidine antibiotic	64	353	318	403	1.66811540212757	13	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	nitroimidazole antibiotic	64	353	352	352	1.45701394925287	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	elfamycin antibiotic	64	353	129	223	0.923051450805083	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	glycopeptide antibiotic	64	353	65	65	0.269050871310899	2	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	rifamycin antibiotic	64	353	42	44	0.182126743656608	3	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	nitrofuran antibiotic	64	353	12	12	0.0496709300881659	1	NA	NA
+ARG_type	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	bicyclomycin antibiotic	64	353	1	1	0.00413924417401383	1	NA	NA
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Escherichia	NA	1590	925	37099	92.098207636165	152	19701	53.1038572468261
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Klebsiella	NA	1590	52	1253	3.11057047812919	69	708	56.5043894652833
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudomonas	NA	1590	7	391	0.970656869073035	66	306	78.2608695652174
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Enterobacter	NA	1590	13	233	0.578422124025619	33	141	60.5150214592275
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Proteus	NA	1590	32	142	0.352514770865399	20	60	42.2535211267606
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Citrobacter	NA	1590	5	137	0.340102278933519	39	65	47.4452554744526
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Gallibacterium	NA	1590	39	109	0.270592324114989	57	7	6.42201834862385
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Acinetobacter	NA	1590	37	72	0.178739883819076	47	20	27.7777777777778
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Thiopseudomonas	NA	1590	65	70	0.173774887046323	6	65	92.8571428571429
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Salmonella	NA	1590	2	60	0.148949903182563	32	38	63.3333333333333
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Succinivibrio	NA	1590	35	37	0.0918524402959138	9	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Atlantibacter	NA	1590	3	34	0.0844049451367857	13	14	41.1764705882353
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Achromobacter	NA	1590	12	33	0.0819224467504096	10	26	78.7878787878788
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Comamonas	NA	1590	12	32	0.0794399483640336	15	10	31.25
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Psychrobacter	NA	1590	18	29	0.0719924532049054	12	1	3.44827586206897
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Halopseudomonas	NA	1590	26	28	0.0695099548185294	4	25	89.2857142857143
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Leclercia	NA	1590	2	27	0.0670274564321533	17	16	59.2592592592593
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Kluyvera	NA	1590	2	25	0.0620624596594012	13	14	56
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Stutzerimonas	NA	1590	15	18	0.0446849709547689	3	15	83.3333333333333
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Aphodousia	NA	1590	6	15	0.0372374757956407	13	2	13.3333333333333
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Halomonas	NA	1590	11	15	0.0372374757956407	4	12	80
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Morganella	NA	1590	3	15	0.0372374757956407	9	7	46.6666666666667
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Duodenibacillus	NA	1590	9	14	0.0347549774092647	6	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudomonas_E	NA	1590	9	14	0.0347549774092647	8	4	28.5714285714286
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	UBA5868	NA	1590	9	14	0.0347549774092647	5	11	78.5714285714286
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Enterobacter_D	NA	1590	1	13	0.0322724790228886	13	9	69.2307692307692
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Marinobacter	NA	1590	13	13	0.0322724790228886	2	12	92.3076923076923
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Cellvibrio	NA	1590	12	12	0.0297899806365126	1	12	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Kosakonia	NA	1590	1	12	0.0297899806365126	11	9	75
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Sutterella	NA	1590	6	12	0.0297899806365126	8	2	16.6666666666667
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Venatoribacter	NA	1590	12	12	0.0297899806365126	1	12	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudomonas_H	NA	1590	10	11	0.0273074822501365	2	10	90.9090909090909
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Ochrobactrum	NA	1590	4	10	0.0248249838637605	9	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudescherichia	NA	1590	1	10	0.0248249838637605	10	7	70
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Ruminobacter	NA	1590	8	10	0.0248249838637605	6	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Actinobacillus_B	NA	1590	7	9	0.0223424854773844	4	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Lelliottia	NA	1590	1	9	0.0223424854773844	9	7	77.7777777777778
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudoxanthomonas	NA	1590	6	9	0.0223424854773844	6	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Basfia_A	NA	1590	4	8	0.0198599870910084	4	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Luteimonas_D	NA	1590	8	8	0.0198599870910084	5	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Oceanisphaera	NA	1590	7	8	0.0198599870910084	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Providencia	NA	1590	2	8	0.0198599870910084	5	4	50
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Ralstonia	NA	1590	4	8	0.0198599870910084	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	RUG410	NA	1590	5	8	0.0198599870910084	4	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Stenotrophomonas	NA	1590	6	8	0.0198599870910084	7	3	37.5
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Marinospirillum	NA	1590	7	7	0.0173774887046323	1	7	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Oligella	NA	1590	2	7	0.0173774887046323	7	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Parasutterella	NA	1590	5	7	0.0173774887046323	6	1	14.2857142857143
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Agrobacterium	NA	1590	3	6	0.0148949903182563	4	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Bordetella	NA	1590	4	6	0.0148949903182563	2	4	66.6666666666667
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Chiayiivirga	NA	1590	5	6	0.0148949903182563	4	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Cellvibrionaceae (unclassified at genus level)	NA	1590	5	5	0.0124124919318802	1	5	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	JAEZAA01	NA	1590	5	5	0.0124124919318802	1	5	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Nitratireductor_C	NA	1590	2	5	0.0124124919318802	3	2	40
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudoxanthomonas_A	NA	1590	5	5	0.0124124919318802	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	WG-1	NA	1590	2	5	0.0124124919318802	4	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Azonexus	NA	1590	3	4	0.0099299935455042	3	1	25
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Bradyrhizobium	NA	1590	4	4	0.0099299935455042	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	JAFAFE01	NA	1590	1	4	0.0099299935455042	4	1	25
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Paenalcaligenes	NA	1590	1	4	0.0099299935455042	4	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Providencia_C	NA	1590	1	4	0.0099299935455042	4	1	25
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	PZPK01	NA	1590	2	4	0.0099299935455042	3	2	50
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Aliidiomarina	NA	1590	3	3	0.00744749515912815	1	3	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	CAZU01	NA	1590	3	3	0.00744749515912815	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Ignatzschineria	NA	1590	3	3	0.00744749515912815	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudorhizobium	NA	1590	2	3	0.00744749515912815	3	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Qipengyuania	NA	1590	1	3	0.00744749515912815	3	1	33.3333333333333
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	ZC4RG25	NA	1590	2	3	0.00744749515912815	3	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Aeromonas	NA	1590	2	2	0.0049649967727521	1	2	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Aquamicrobium_A	NA	1590	1	2	0.0049649967727521	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Aureimonas	NA	1590	1	2	0.0049649967727521	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Azoarcus	NA	1590	1	2	0.0049649967727521	2	1	50
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Azovibrio	NA	1590	2	2	0.0049649967727521	1	2	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Brevundimonas	NA	1590	1	2	0.0049649967727521	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Edwardsiella	NA	1590	1	2	0.0049649967727521	2	2	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Enterousia	NA	1590	2	2	0.0049649967727521	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	HGM20899	NA	1590	2	2	0.0049649967727521	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	JACCES01	NA	1590	1	2	0.0049649967727521	2	1	50
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Lysobacter_C	NA	1590	1	2	0.0049649967727521	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Magnetospirillum	NA	1590	1	2	0.0049649967727521	2	1	50
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Plesiomonas	NA	1590	1	2	0.0049649967727521	2	2	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudidiomarina	NA	1590	2	2	0.0049649967727521	2	1	50
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudohongiella	NA	1590	2	2	0.0049649967727521	1	2	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudomonas_O	NA	1590	1	2	0.0049649967727521	2	2	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Scatacola_A	NA	1590	2	2	0.0049649967727521	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	SFHR01	NA	1590	2	2	0.0049649967727521	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Shinella	NA	1590	2	2	0.0049649967727521	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Sphingobium	NA	1590	2	2	0.0049649967727521	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Succinatimonas	NA	1590	2	2	0.0049649967727521	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	UBA2810	NA	1590	2	2	0.0049649967727521	2	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Alcaligenes	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	CAG-267	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	CAJOOW01	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	CALXWF01	NA	1590	1	1	0.00248249838637605	1	1	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	CALYQQ01	NA	1590	1	1	0.00248249838637605	1	1	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Croceibacterium	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Devosia	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	DSM-21159 (unclassified at genus level)	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Herbaspirillum	NA	1590	1	1	0.00248249838637605	1	1	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	JAAYIK01	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	JAGOXX01	NA	1590	1	1	0.00248249838637605	1	1	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Lacisediminimonas	NA	1590	1	1	0.00248249838637605	1	1	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Ochrobactrum_A	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Ottowia	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pseudomonas_K	NA	1590	1	1	0.00248249838637605	1	1	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	Pusillimonas	NA	1590	1	1	0.00248249838637605	1	1	100
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	UBA2804	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Pseudomonadota AR-MAG	all_AR_MAGs	UBA7488	NA	1590	1	1	0.00248249838637605	1	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Escherichia	NA	3521	2441	137311	81.7239819543144	258	65974	48.0471338785676
+genus	Livestock isolate Pseudomonadota	all_isolates	Salmonella	NA	3521	572	21660	12.891475913295	121	11995	55.3785780240074
+genus	Livestock isolate Pseudomonadota	all_isolates	Klebsiella	NA	3521	83	3588	2.13548548369817	136	1372	38.2385730211817
+genus	Livestock isolate Pseudomonadota	all_isolates	Acinetobacter	NA	3521	204	2161	1.2861717196967	103	412	19.0652475705692
+genus	Livestock isolate Pseudomonadota	all_isolates	Enterobacter	NA	3521	28	930	0.553512123701032	91	436	46.8817204301075
+genus	Livestock isolate Pseudomonadota	all_isolates	Proteus	NA	3521	40	682	0.40590889071409	73	104	15.2492668621701
+genus	Livestock isolate Pseudomonadota	all_isolates	Pseudomonas	NA	3521	13	617	0.367222559487674	80	475	76.9854132901134
+genus	Livestock isolate Pseudomonadota	all_isolates	Citrobacter	NA	3521	15	551	0.327941053934697	79	223	40.4718693284936
+genus	Livestock isolate Pseudomonadota	all_isolates	Yersinia	NA	3521	13	106	0.0630884786153865	11	40	37.7358490566038
+genus	Livestock isolate Pseudomonadota	all_isolates	Aeromonas	NA	3521	24	86	0.0511849920841815	6	24	27.906976744186
+genus	Livestock isolate Pseudomonadota	all_isolates	Providencia	NA	3521	7	80	0.04761394612482	30	19	23.75
+genus	Livestock isolate Pseudomonadota	all_isolates	Morganella	NA	3521	2	42	0.0249973217155305	31	6	14.2857142857143
+genus	Livestock isolate Pseudomonadota	all_isolates	Leclercia	NA	3521	1	33	0.0196407527764882	32	12	36.3636363636364
+genus	Livestock isolate Pseudomonadota	all_isolates	Achromobacter	NA	3521	10	26	0.0154745324905665	8	20	76.9230769230769
+genus	Livestock isolate Pseudomonadota	all_isolates	Atlantibacter	NA	3521	2	24	0.014284183837446	14	8	33.3333333333333
+genus	Livestock isolate Pseudomonadota	all_isolates	Kosakonia	NA	3521	1	20	0.011903486531205	18	11	55
+genus	Livestock isolate Pseudomonadota	all_isolates	Stenotrophomonas	NA	3521	5	15	0.00892761489840374	9	9	60
+genus	Livestock isolate Pseudomonadota	all_isolates	Serratia_A	NA	3521	2	12	0.00714209191872299	6	6	50
+genus	Livestock isolate Pseudomonadota	all_isolates	Ochrobactrum	NA	3521	5	8	0.004761394612482	6	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Stutzerimonas	NA	3521	7	8	0.004761394612482	2	7	87.5
+genus	Livestock isolate Pseudomonadota	all_isolates	Gallibacterium	NA	3521	1	6	0.0035710459593615	6	4	66.6666666666667
+genus	Livestock isolate Pseudomonadota	all_isolates	Luteimonas_D	NA	3521	6	6	0.0035710459593615	6	2	33.3333333333333
+genus	Livestock isolate Pseudomonadota	all_isolates	Povalibacter	NA	3521	4	4	0.002380697306241	1	4	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Pseudomonas_E	NA	3521	3	4	0.002380697306241	2	3	75
+genus	Livestock isolate Pseudomonadota	all_isolates	Comamonas	NA	3521	1	3	0.00178552297968075	3	1	33.3333333333333
+genus	Livestock isolate Pseudomonadota	all_isolates	Halopseudomonas	NA	3521	3	3	0.00178552297968075	1	3	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Pseudomonas_H	NA	3521	3	3	0.00178552297968075	1	3	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Pseudoxanthomonas_A	NA	3521	3	3	0.00178552297968075	2	1	33.3333333333333
+genus	Livestock isolate Pseudomonadota	all_isolates	Succinivibrio	NA	3521	2	3	0.00178552297968075	3	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Avibacterium	NA	3521	1	2	0.0011903486531205	2	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Azovibrio	NA	3521	2	2	0.0011903486531205	1	2	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Bradyrhizobium	NA	3521	2	2	0.0011903486531205	2	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Oceanimonas	NA	3521	1	2	0.0011903486531205	2	1	50
+genus	Livestock isolate Pseudomonadota	all_isolates	Pseudomonas_O	NA	3521	1	2	0.0011903486531205	2	2	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Actinobacillus_B	NA	3521	1	1	0.00059517432656025	1	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Agrobacterium	NA	3521	1	1	0.00059517432656025	1	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Azoarcus	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Bordetella	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Dokdonella_A	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Livestock isolate Pseudomonadota	all_isolates	JAEZAA01	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Lautropia	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Oceanisphaera	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Livestock isolate Pseudomonadota	all_isolates	Ochrobactrum_A	NA	3521	1	1	0.00059517432656025	1	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Paracoccus	NA	3521	1	1	0.00059517432656025	1	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Pseudochrobactrum	NA	3521	1	1	0.00059517432656025	1	0	0
+genus	Livestock isolate Pseudomonadota	all_isolates	Pseudomonas_B	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Livestock isolate Pseudomonadota	all_isolates	UBA5868	NA	3521	1	1	0.00059517432656025	1	1	100
+genus	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	Escherichia	48	159	153	7723	95.6764122893954	136	3960	51.2754111096724
+genus	Pseudomonadota AR-MAG	high_ARG_AR_MAGs_top10pct	Pseudomonas	48	159	6	349	4.32358771060456	66	273	78.2234957020057
+genus	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	Escherichia	64	353	350	23947	99.1224802351091	212	9998	41.7505324257736
+genus	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	Klebsiella	64	353	1	76	0.314582557225051	64	18	23.6842105263158
+genus	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	Salmonella	64	353	1	70	0.289747092180968	52	24	34.2857142857143
+genus	Livestock isolate Pseudomonadota	high_ARG_isolates_top10pct	Pseudomonas	64	353	1	66	0.273190115484912	65	44	66.6666666666667

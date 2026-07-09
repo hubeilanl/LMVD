@@ -1,0 +1,13 @@
+sample	nonviral_contig	pair_name	ARG_name	MGE_name	ARG_MGE_distance_nonviral_bp	same_sample_counterpart_to_viral_unit	number_of_same_sample_viral_units
+CNS0178485	CNS0178485_k141_863574	tnpR_2 + ACI-1	ACI-1	tnpR_2	205	no	0
+CNS0178641	CNS0178641_k141_533966	tnp + lnuC	lnuC	tnp	27	no	0
+CNS0178651	CNS0178651_k141_768573	tnp + lnuC	lnuC	tnp	27	no	0
+CNS0178704	CNS0178704_k141_888448	tnp + lnuC	lnuC	tnp	27	no	0
+CNS0178708	CNS0178708_k141_933965	tnp + lnuC	lnuC	tnp	27	no	0
+CNS0178708	CNS0178708_k141_598882	tnpR_2 + ACI-1	ACI-1	tnpR_2	205	no	0
+CNS0178769	CNS0178769_k141_516139	tnpR_2 + ACI-1	ACI-1	tnpR_2	205	no	0
+CNS0178827	CNS0178827_k141_1142435	tnp + lnuC	lnuC	tnp	27	no	0
+ERR2241775	ERR2241775_k141_1290674	tnp + lnuC	lnuC	tnp	27	no	0
+SRR5371461	SRR5371461_k141_1857399	tnp + lnuC	lnuC	tnp	27	no	0
+SRR8198106	SRR8198106_k141_205780	tndX + APH(2'')-IIa	APH(2'')-IIa	tndX	754	no	0
+SRR8198106	SRR8198106_k141_205780	tndX + AAC(6')-Im	AAC(6')-Im	tndX	1697	no	0

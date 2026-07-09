@@ -1,0 +1,4 @@
+variable	VIF	VIF_flag
+log_nReads	2.58753423463791	acceptable_le_5
+log_sum_len	21.5013100767347	high_gt_5
+log_num_seqs	17.5770258960467	high_gt_5

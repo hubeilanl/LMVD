@@ -1,0 +1,12 @@
+"metric","value"
+"raw_arg_records",437
+"unique_viral_contigs",401
+"duplicated_arg_records_removed",36
+"minimum_length_kb",5.017
+"median_length_kb",13.325
+"mean_length_kb",23.0565586034913
+"maximum_length_kb",426.762
+"proportion_lt10kb",0.324189526184539
+"proportion_lt20kb",0.738154613466334
+"proportion_ge20kb",0.261845386533666
+"proportion_ge50kb",0.0648379052369077

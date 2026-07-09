@@ -1,0 +1,22 @@
+Feature	Environmental_predictor	Description	Unit	Source_link
+Antimicrobial usage in livestock	Antimicrobial usage in livestock	Milligrams of antibiotic use per kilogram of livestock. This is adjusted for differences in livestock numbers and species bystandardizing to a population-corrected unit (PCU).	mg/PCU	https://ourworldindata.org/grapher/antibiotic-usage-in-livestock?country=TWN~CHN
+Scale of chicken breeding	Scale of livestock breeding	Livestock products (chicken/head)	head	https://www.fao.org/faostat/zh/#home
+Scale of swine breeding	Scale of livestock breeding	Livestock products ( swine/head)	head	https://www.fao.org/faostat/zh/#home
+Scale of cattle breeding	Scale of livestock breeding	Livestock products (cattle/head)	head	https://www.fao.org/faostat/zh/#home
+Crop landuse (Soyabeans)	Agricultural production	Crop landuse	ha	https://www.fao.org/faostat/zh/#home
+Crop landuse (Wheat)	Agricultural production	Crop landuse	ha	https://www.fao.org/faostat/zh/#home
+Crop landuse (Maize)	Agricultural production	Crop landuse	ha	https://www.fao.org/faostat/zh/#home
+Crop landuse (Potatoes)	Agricultural production	Crop landuse	ha	https://www.fao.org/faostat/zh/#home
+Crop landuse (Rice)	Agricultural production	Crop landuse	ha	https://www.fao.org/faostat/zh/#home
+GDP	Economic level	Gross Domestic Product	US$ per capita	https://www.oecd-ilibrary.org/statistics
+Cattle manure (N content)	Livestock feces production	Amount excreted in manure (N content) Cattle	kg	https://www.fao.org/faostat/zh/#home
+Chicken manure (N content)	Livestock feces production	Amount excreted in manure (N content) Chicken	kg	https://www.fao.org/faostat/zh/#home
+Swine manure (N content)	Livestock feces production	Amount excreted in manure (N content) Swine	kg	https://www.fao.org/faostat/zh/#home
+Pesticides use	Pesticides usage	Pesticides use per area of cropland	kg/ha	https://www.fao.org/faostat/zh/#home
+Cattle meat	Livestock meat production	Production of cattle  meat	1000 tonnes	https://www.fao.org/faostat/zh/#home
+Swine meat	Livestock meat production	Production of swine meat	1000 tonnes	https://www.fao.org/faostat/zh/#home
+Chicken meat	Livestock meat production	Production of chicken meat	1000 tonnes	https://www.fao.org/faostat/zh/#home
+Cattle N to soils	Fertilization of livestock manure	Cattle manure applied to soils (N content)	kg	https://www.fao.org/faostat/zh/#home
+Chickens N to soils	Fertilization of livestock manure	Chickens manure applied to soils (N content)	kg	https://www.fao.org/faostat/zh/#home
+Swine N to soils	Fertilization of livestock manure	Swine manure applied to soils (N content)	kg	https://www.fao.org/faostat/zh/#home
+Population	Human population	Population (1000 people)	1000 person	https://www.fao.org/faostat/zh/#home

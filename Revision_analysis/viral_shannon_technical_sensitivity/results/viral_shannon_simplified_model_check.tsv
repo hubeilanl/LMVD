@@ -1,0 +1,10 @@
+item	value
+status	run_because_at_least_one_main_model_VIF_gt_5
+formula	Shannon index ~ log_nReads + log_sum_len
+n	4017
+R_squared	0.564862030518231
+adjusted_R_squared	0.564645220369012
+residual_standard_error	0.823356821025297
+residual_Kruskal_Wallis_p_value	6.08088813206322e-100
+residual_median_order_high_to_low	Oceania > Africa > Europe > Asia > South_America > North_America
+correlation_main_vs_simplified_residual	0.990003975076082

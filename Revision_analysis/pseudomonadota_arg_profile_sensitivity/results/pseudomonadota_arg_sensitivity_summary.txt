@@ -1,0 +1,5 @@
+High ARG counts in Pseudomonadota AR-MAGs were mainly associated with Escherichia, which accounted for 92.1% of all AR-MAG ARG annotations and 95.7% of annotations in the top 10% high-ARG AR-MAGs.
+Multidrug ARGs were the dominant ARG type, representing 53.2% of all AR-MAG annotations and 52.4% of annotations in high-ARG AR-MAGs.
+ARG-carrying contigs were not dominated by extremely short contigs: the median length was 18.23 kb, 86.1% were at least 5 kb, and 0.0% were shorter than 1 kb.
+After excluding ARGs located on contigs shorter than 5 kb, the mean ARG count using the original AR-MAG denominator changed from 25.33 to 22.79 per MAG, while retaining 90.0% of ARG annotations.
+The livestock isolate annotations showed a similar pattern, with Escherichia contributing 81.7% of isolate ARG annotations and multidrug ARGs contributing 48.3%, supporting biological consistency between the high-ARG AR-MAGs and isolate genomes while metagenomic binning uncertainty remains a limitation.

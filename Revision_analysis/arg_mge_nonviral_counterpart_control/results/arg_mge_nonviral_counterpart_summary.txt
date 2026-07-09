@@ -1,0 +1,5 @@
+ARG-MGE same-sample non-viral counterpart control
+Viral target ARG-MGE units evaluated: 39
+Samples represented: 28
+Same-sample non-viral counterparts within 10 kb: 0
+Non-viral candidate pairs for target combinations: 12

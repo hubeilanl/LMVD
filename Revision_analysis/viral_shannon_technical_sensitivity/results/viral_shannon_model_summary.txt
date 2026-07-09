@@ -1,0 +1,21 @@
+Technical residual model
+Formula: Shannon index ~ log_nReads + log_sum_len + log_num_seqs
+
+Number of samples used: 4017 
+
+Coefficient table:
+         term     estimate standard_error     t_value       p_value
+  (Intercept) -20.24591106     0.54279343 -37.2994768 1.050999e-261
+   log_nReads  -0.03637179     0.06975795  -0.5213999  6.021170e-01
+  log_sum_len   3.72939793     0.15692369  23.7656779 6.387693e-117
+ log_num_seqs  -1.14678513     0.12707022  -9.0248144  2.733356e-19
+
+R-squared: 0.5735179 
+Adjusted R-squared: 0.573199 
+Residual standard error: 0.8152281 
+
+VIF:
+     variable       VIF        VIF_flag
+   log_nReads  2.587534 acceptable_le_5
+  log_sum_len 21.501310       high_gt_5
+ log_num_seqs 17.577026       high_gt_5

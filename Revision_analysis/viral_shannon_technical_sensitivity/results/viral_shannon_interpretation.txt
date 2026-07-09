@@ -1,0 +1,5 @@
+Continental differences remained statistically detectable after accounting for read count and assembly-output metrics.
+Raw Shannon median order, high to low: Asia > Europe > Oceania > North_America > Africa > South_America.
+Residual Shannon median order, high to low: Europe > Africa > Oceania > Asia > North_America > South_America.
+Kruskal-Wallis P value for residual continent differences: <0.001.
+This sensitivity analysis does not perform full catalogue-wide read recruitment.

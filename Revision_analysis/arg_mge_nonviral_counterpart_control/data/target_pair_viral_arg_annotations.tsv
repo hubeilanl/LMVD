@@ -1,0 +1,41 @@
+Sample	Contig	VC_Contig	Start	Stop	Orientation	Best_Hit_Bitscore	Best_Hit_ARO	ARO	Drug Class	Resistance Mechanism	AMR Gene Family
+SRR3181139	SRR3181139_k141_580158	SRR3181139_k141_580158||full	514	1077	-	325.094	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR5371453	SRR5371453_k141_3109646	SRR5371453_k141_3109646||full	13106	13669	+	334.724	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR5371461	SRR5371461_k141_671686	SRR5371461_k141_671686||full	33629	34483	-	588.571	ACI-1	3004359	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase
+ERR3097361	ERR3097361_k141_71255	ERR3097361_k141_71255||full	19703	20557	-	588.571	ACI-1	3004359	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase
+SRR10378072	SRR10378072_k141_72661	SRR10378072_k141_72661||full	9159	9653	-	333.183	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR7457770	SRR7457770_k141_407983	SRR7457770_k141_407983||full	427	1281	+	583.563	ACI-1	3004359	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase
+CNS0178485	CNS0178485_k141_13537	CNS0178485_k141_13537||full	412	948	-	359.762	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178485	CNS0178485_k141_13537	CNS0178485_k141_13537||full	992	1891	-	581.252	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178641	CNS0178641_k141_3872	CNS0178641_k141_3872||full	750	1286	-	358.221	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178641	CNS0178641_k141_3872	CNS0178641_k141_3872||full	1330	2229	-	583.178	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178651	CNS0178651_k141_406439	CNS0178651_k141_406439||full	6245	7144	+	581.252	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178651	CNS0178651_k141_406439	CNS0178651_k141_406439||full	7188	7724	+	359.762	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178657	CNS0178657_k141_976445	CNS0178657_k141_976445||full	5990	6889	+	573.933	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178657	CNS0178657_k141_976445	CNS0178657_k141_976445||full	6933	7469	+	358.607	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178704	CNS0178704_k141_793297	CNS0178704_k141_793297||full	776	1312	-	358.221	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178704	CNS0178704_k141_793297	CNS0178704_k141_793297||full	1356	2255	-	583.178	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178708	CNS0178708_k141_1297280	CNS0178708_k141_1297280||full	5999	6898	+	581.252	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178708	CNS0178708_k141_1297280	CNS0178708_k141_1297280||full	6942	7478	+	358.221	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178760	CNS0178760_k141_584725	CNS0178760_k141_584725||full	382	918	-	361.303	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178760	CNS0178760_k141_584725	CNS0178760_k141_584725||full	962	1861	-	581.252	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178769	CNS0178769_k141_506944	CNS0178769_k141_506944||full	2297	2791	-	304.679	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+CNS0178769	CNS0178769_k141_506944	CNS0178769_k141_506944||full	87686	88180	+	304.679	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+CNS0178784	CNS0178784_k141_530208	CNS0178784_k141_530208||full	177	713	-	359.762	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+CNS0178784	CNS0178784_k141_530208	CNS0178784_k141_530208||full	757	1656	-	581.252	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178827	CNS0178827_k141_1483092	CNS0178827_k141_1483092||full	5881	6780	+	591.652	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+CNS0178827	CNS0178827_k141_1483092	CNS0178827_k141_1483092||full	6824	7360	+	367.081	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+ERR1135274	ERR1135274_k99_218677	ERR1135274_k99_218677||full	14439	14933	-	333.183	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+ERR1135457	ERR1135457_k119_90936	ERR1135457_k119_90936||full	369	905	-	359.762	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+ERR1135457	ERR1135457_k119_90936	ERR1135457_k119_90936||full	949	1848	-	581.252	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+ERR2241775	ERR2241775_k141_121530	ERR2241775_k141_121530||full	826	1362	-	354.369	AAC(6')-Im	3004629	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+ERR2241775	ERR2241775_k141_121530	ERR2241775_k141_121530||full	1406	2305	-	586.645	APH(2'')-IIa	3002635	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+SRR11615194	SRR11615194_k141_167711	SRR11615194_k141_167711||full	4836	5330	-	333.183	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR14369145	SRR14369145_k141_419292	SRR14369145_k141_419292||0_partial_1	1	495	-	331.643	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR14369162	SRR14369162_k141_186261	SRR14369162_k141_186261||full	12148	13002	-	588.571	ACI-1	3004359	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase
+SRR14369182	SRR14369182_k141_446088	SRR14369182_k141_446088||full_1	14597	15091	+	306.605	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR14369285	SRR14369285_k141_1290201	SRR14369285_k141_1290201||0_partial	14034	14528	+	331.643	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR14369293	SRR14369293_k141_72151	SRR14369293_k141_72151||full_1	1	462	-	312.383	lnuC	3002837	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+SRR8198106	SRR8198106_k141_625194	SRR8198106_k141_625194||full	7307	8161	-	588.571	ACI-1	3004359	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase
+SRR8960401	SRR8960401_k141_81091	SRR8960401_k141_81091||full	4831	5685	+	583.563	ACI-1	3004359	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase
+SRR8960748	SRR8960748_k141_538019	SRR8960748_k141_538019||full	1174	2028	+	588.571	ACI-1	3004359	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase

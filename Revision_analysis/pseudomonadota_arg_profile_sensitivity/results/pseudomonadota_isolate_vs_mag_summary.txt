@@ -1,0 +1,4 @@
+Livestock isolate Pseudomonadota included 3,521 genomes and 168,018 ARG annotations; the mean ARG count was 47.72 annotations per genome and the mean unique ARG name count was 47.44.
+The median length of isolate ARG-carrying contigs was 101.16 kb, compared with 18.23 kb in Pseudomonadota AR-MAGs.
+91.2% of isolate ARG-carrying contigs and 86.1% of AR-MAG ARG-carrying contigs were at least 5 kb.
+After filtering to contigs >=5 kb, the isolate mean ARG count was 45.46 per genome, while the AR-MAG mean was 22.79 per MAG.
