@@ -1,4 +1,4 @@
-<img width="432" height="13" alt="image" src="https://github.com/user-attachments/assets/8c97ba80-ffcf-4e4e-a211-eac62f262d1a" /># A global livestock virome catalog links viruses with resistome assembly
+# A global livestock virome catalog links viruses with resistome assembly
 
 Livestock manure is a major One Health interface for antimicrobial resistance (AMR), yet the viral component of this ecosystem has remained poorly resolved. This study integrates 4,017 publicly available livestock manure metagenomes to establish the Livestock Manure Virus Database (LMVD), a global catalogue of 1,330,372 species-level viral operational taxonomic units (vOTUs). More than 99% of these vOTUs were not represented in existing viral genome resources, showing that livestock manure contains a large, habitat-specific viral sequence space that has been underrepresented in previous databases.
 
